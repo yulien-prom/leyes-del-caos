@@ -1,0 +1,482 @@
+element.style {
+}
+@media (max-width: 1200px)
+
+.tm-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 50px 20px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+.tm-content {
+    padding: 180px 60px 70px 100px;
+    padding-top: 180px;
+    padding-right: 60px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+.tm-section-col {
+    flex: 0 0 50%;
+    width: 50%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+
+.tm-media {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 70px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+
+tm-media img {
+    width: 200px;
+    height: 400px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+
+.tm-media-body {
+    padding-left: 30px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+h2.planton-pen {
+    line-height: 1.6;
+    margin-top: 0;
+    margin-bottom: 30px;
+    display: block;
+    font-size: 1.7em;
+    margin-block-start: 0.84em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-text-primary {
+    color: #282c28;
+}
+a, button {
+    transition: all 0.3s ease;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+user agent stylesheet
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+
+.tm-mb-20 {
+    margin-bottom: 20px;
+}
+.tm-text-small {
+    font-size: 1em;
+}
+p {
+    line-height: 1.8;
+    margin-bottom: 50px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+element.style {
+    font-size: 24px;
+}
+* {
+    box-sizing: border-box;
+}
+
+.cambio {
+    width: 500px;
+    line-height: 1.8;
+    margin-bottom: 50px;
+}
+
+.tm-media-span {
+    margin-bottom: 15px;
+    display: block;
+    text-align: right;
+}
+.tm-text-secondary {
+    color: #9999CC;
+}
+
+span, footer {
+    line-height: 1.8;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-mr {
+    margin-right: 0;
+    margin-left: auto;
+}
+.tm-hr {
+    border-color: #555;
+    max-width: 340px;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-media-span {
+    margin-bottom: 15px;
+    display: block;
+    text-align: right;
+}
+.tm-text-secondary {
+    color: #9999CC;
+}
+
+span, footer {
+    line-height: 1.8;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-btn {
+    display: inline-block;
+    border: 1px solid #666;
+    border-top-color: rgb(102, 102, 102);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(102, 102, 102);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(102, 102, 102);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 102);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: transparent;
+    color: #999;
+    padding: 14px 40px;
+    padding-top: 14px;
+    padding-right: 40px;
+    padding-bottom: 14px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+a, button {
+    transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-media img {
+    width: 200px;
+    height: 400px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+.tm-btn {
+    display: inline-block;
+    border: 1px solid #666;
+    border-top-color: rgb(102, 102, 102);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(102, 102, 102);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(102, 102, 102);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 102);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: transparent;
+    color: #999;
+    padding: 14px 40px;
+    padding-top: 14px;
+    padding-right: 40px;
+    padding-bottom: 14px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+a, button {
+    transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+a {
+    color: rgb(70, 59, 59);
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+
+element.style {
+}
+.tm-mb-20 {
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.8;
+    margin-bottom: 50px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    background-color: #333;
+    color: ;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.bg-color-peli{
+    background-color:rgba(245, 245, 245, 0.979);
+}
+
+element.style {
+}
+@media screen and (max-width: 1100px)
+.section-full .text-zone {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.section-home .text-zone {
+    position: relative;
+    z-index: 1;
+}
+.section-full .text-zone {
+    padding-left: 5rem;
+}
+body * {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.bg-color-none{
+    
+
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 1.65;
+    color: #2d2f38;
+}
+body {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 1.3rem;
+    font-weight: 417;
+    color: #0d0d0e;
+    text-align: left;
+    background-color: #fff;
+}
+
+.pg-color-ground{
+    background-color: white;
+}
+
